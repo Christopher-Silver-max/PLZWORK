@@ -21,7 +21,7 @@ public class whatever1 extends JFrame {
 					whatever1 frame = new whatever1();
 					frame.setVisible(true);
 				} catch (Exception e) {
-					e.printStackTrace();
+				
 				}
 			}
 		});
